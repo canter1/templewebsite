@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Tahoma, sans-serif;
+
+}
+.temple-image {
+    width: 200px;
+    float: ;
+    padding: 50px;
+
+    
+}
+.container {
+    background-color: rgb(165, 236, 240);
+    display: block;
+    width: 700px;
+    height: 350px;
+    margin-top: 175px;
+    margin-right: auto;
+    margin-left: auto;
+    border-bottom: 8px solid coral;
+    border-radius: 25px;
+    box-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;;
+    text-align: center;
+   
+
+    
+   
+    
+}
+.text-box {
+    margin-top: 45px;
+}
+.flexbox {
+    display: flex;
+    
+}
